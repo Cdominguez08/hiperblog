@@ -41,3 +41,10 @@ body
 {
     padding: 1em;
 }
+#footer
+{
+    color: white;
+    text-align: center;
+    background-color: gray;
+    padding: 16px;
+}
